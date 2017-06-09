@@ -37,6 +37,27 @@
 			<Add option="-fexceptions" />
 		</Compiler>
 		<Unit filename="main.cpp" />
+		<Unit filename="ngx_alloc.cpp" />
+		<Unit filename="ngx_alloc.h" />
+		<Unit filename="ngx_atomic.h" />
+		<Unit filename="ngx_config.h" />
+		<Unit filename="ngx_config_file.cpp" />
+		<Unit filename="ngx_config_file.h" />
+		<Unit filename="ngx_core.h" />
+		<Unit filename="ngx_errno.h" />
+		<Unit filename="ngx_files.h" />
+		<Unit filename="ngx_log.cpp" />
+		<Unit filename="ngx_log.h" />
+		<Unit filename="ngx_process.h" />
+		<Unit filename="ngx_rbtree.h" />
+		<Unit filename="ngx_string.cpp" />
+		<Unit filename="ngx_string.h" />
+		<Unit filename="ngx_time.h" />
+		<Unit filename="ngx_times.cpp" />
+		<Unit filename="ngx_times.h" />
+		<Unit filename="ngx_win32_config.h" />
+		<Unit filename="os.cpp" />
+		<Unit filename="os.h" />
 		<Extensions>
 			<code_completion />
 			<envvars />
