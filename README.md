@@ -1,0 +1,2 @@
+# nginx
+for myself 
